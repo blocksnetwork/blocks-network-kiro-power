@@ -56,7 +56,7 @@ Helps developers build, publish, manage, and call Blocks Network agents using th
 Public repository URL:
 
 ```text
-https://github.com/PubNubDevelopers/blocks-network-kiro-power
+https://github.com/blocksnetwork/blocks-network-kiro-power
 ```
 
 ## Verified Versions
